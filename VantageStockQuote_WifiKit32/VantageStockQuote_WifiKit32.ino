@@ -42,24 +42,8 @@ const char* root_ca = \
                       "ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0yMDExMTYwNTI3NTBaFw0y\n" \
                       "MTAyMTQwNTI3NTBaMB4xHDAaBgNVBAMTE3d3dy5hbHBoYXZhbnRhZ2UuY28wggEi\n" \
                       "MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC81HBqgLQqHqZkpBPbmBpGmQsX\n" \
-                      "ZPimoVLJwh4tQLI+VKTX6R401fvrV2uQ0CntvrKxcGMoYkE2z+VEVZHeE/7mXoaz\n" \
-                      "+aLxnuxPVG1V1FOuF1EHWc+gRTKLdUEiNH+zHV3AT5tNk3GYpSJ1DPMP+bu0nBnk\n" \
-                      "BkXUGknYm/VHRPWDoNEuTg8N9sz8HnREPtze4hlikUqMfzb1nYJk7sOJYBY4jhfB\n" \
-                      "p6GzET59rm0NDjrG3A/by7Ks/HC5npY+DoO+5YZ6Nrov9DrK9cQEAD/CnZG7zJkm\n" \
-                      "p3DOPcO9DM3Yecf7SVuKQdxLUVdC2rIcLNO4PEsoRspveTu03HREVHPwrtA9AgMB\n" \
-                      "AAGjggJpMIICZTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG\n" \
-                      "CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFSlQ1MURpGRAVNxAuZw\n" \
-                      "PaqLkWhuMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF\n" \
-                      "BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy\n" \
-                      "eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy\n" \
-                      "eXB0Lm9yZy8wHgYDVR0RBBcwFYITd3d3LmFscGhhdmFudGFnZS5jbzBMBgNVHSAE\n" \
-                      "RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw\n" \
-                      "Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3\n" \
-                      "AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABdc+8+xMAAAQDAEgw\n" \
-                      "RgIhAJwiB9OUFrhreADbDZT6J9yS0k2cThLv41A+F9D83Q0CAiEAhKeGGA3UUx/l\n" \
-                      "xe9fvGXeU55ae3v2QCefjH9+/T2BWyUAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/\n" \
-                      "3wwvIAvMTvFk4wAAAXXPvPsSAAAEAwBHMEUCIQDx1iAae1+j/sZzgOZwVN0ZmPqY\n" \
-                      "Y9uXe0h/Fy4bdfATTQIgaFBjfHvvGz/uHVnNbFE07rIut27+/0qgSRlq01/3MCEw\n" \
+... get certificate from the web site.  This is just a typical sample.
+  
                       "DQYJKoZIhvcNAQELBQADggEBAFLbp5Zewfrt+ZV6wnC0Aikv7qZhdl5ylvxSVvBG\n" \
                       "clXJZN2XrA6W1uSXQQGItWR3UT1ZQ9wAyGPmRTT8DTwtVkm7qYxOeqNPsztsEQxq\n" \
                       "rnzBdC/VFbJkJCCKY9TrNJIYybVljT603XaHl4sn6vG5B3HAFxtFM7L55Gsr2wLX\n" \
