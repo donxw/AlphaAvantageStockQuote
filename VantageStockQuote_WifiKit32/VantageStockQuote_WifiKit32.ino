@@ -1,7 +1,8 @@
 // AlphaVantage Key Signup:
 // https://www.alphavantage.co/support/#api-key
 // https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=HPQ&apikey=86GGFRIQSM2UVJAC
-// to use https - dowload and format the root certificate from the website:  https://techtutorialsx.com/2017/11/18/esp32-arduino-https-get-request/
+// to use https - download and format the root certificate. 
+// instructions - https://techtutorialsx.com/2017/11/18/esp32-arduino-https-get-request/
 // this will only work on ESP32 due to the secure client library
 // board devkit 32 or Heltec wifikit 32
 // CPU freq reduced to 80MHz to reduce power
@@ -87,7 +88,6 @@ void setup() {
   digitalWrite(25, HIGH);   // turn the LED on (HIGH is the voltage level)
 
   Serial.begin(115200);
-
 
   //Setup interrupt on Touch Pad 7 (GPIO27)
   touchAttachInterrupt(T7, callback, Threshold);
