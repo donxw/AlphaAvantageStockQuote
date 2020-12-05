@@ -39,15 +39,14 @@ const char* root_ca = \
                       "-----BEGIN CERTIFICATE-----\n" \
                       "MIIFXzCCBEegAwIBAgISBFI8aC5lnovKspMwhMhDxH4BMA0GCSqGSIb3DQEBCwUA\n" \
                       "MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD\n" \
+                      "DQYJKoZIhvcNAQELBQADggEBAFLbp5Zewfrt+ZV6wnC0Aikv7qZhdl5ylvxSVvBG\n" \                      
                       "ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0yMDExMTYwNTI3NTBaFw0y\n" \
-                      "MTAyMTQwNTI3NTBaMB4xHDAaBgNVBAMTE3d3dy5hbHBoYXZhbnRhZ2UuY28wggEi\n" \
-                      "MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC81HBqgLQqHqZkpBPbmBpGmQsX\n" \
-... get certificate from the web site.  This is just a typical sample.
+                      
+... get certificate from the web site.  This is just a typical sample of a certificate.
+... see this very helpful video on vertical selection with Notepad++
+... https://www.youtube.com/watch?v=VNvj_BZ7hfA   
   
-                      "DQYJKoZIhvcNAQELBQADggEBAFLbp5Zewfrt+ZV6wnC0Aikv7qZhdl5ylvxSVvBG\n" \
                       "clXJZN2XrA6W1uSXQQGItWR3UT1ZQ9wAyGPmRTT8DTwtVkm7qYxOeqNPsztsEQxq\n" \
-                      "rnzBdC/VFbJkJCCKY9TrNJIYybVljT603XaHl4sn6vG5B3HAFxtFM7L55Gsr2wLX\n" \
-                      "75VQXzh+3blg7tNGKjbmj6aOElSGpvDqbH+TVo0Gt9DhtlBywuOF7QSMWino2Rrq\n" \
                       "6u63Ad4zuKmzFafMjs69iFanu95UneoUwdJsA7PQo4Tbk4Rkd5x4aUzOb72tS+tW\n" \
                       "IWOfB+YoXEVF1wkzreF7vgr3IlIqc+ftaeZUnJ/a3ThpnHU=\n" \
                       "-----END CERTIFICATE-----\n";
